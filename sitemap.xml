@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://alperkan.at/posts/hello-world/</loc>
+    <lastmod>2020-11-24T23:16:41+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alperkan.at/posts/</loc>
+    <lastmod>2020-11-24T23:16:41+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://alperkan.at/about/</loc>
     <lastmod>2020-11-23T01:40:47+03:00</lastmod>
   </url>
