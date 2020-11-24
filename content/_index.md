@@ -1,1 +1,1 @@
-about.md
+about/index.md
