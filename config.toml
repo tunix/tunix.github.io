@@ -8,21 +8,18 @@ enableEmoji = true
 [params]
   author = "Alper Kanat"
   description = "Personal space of Alper Kanat"
-  # [params.footer]
-  #   text = "Alper Kanat"
-  #   url = "https://github.com/tunix/alperkan.at"
 
 [permalinks]
   "/" = "/:filename"
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Günlük"
     url = "/posts"
     weight = 1
 
   [[menu.main]]
-    name = "Notebook"
+    name = "Not Defteri"
     url = "https://github.com/tunix/notebook"
     weight = 2
 
