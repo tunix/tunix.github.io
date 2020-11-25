@@ -23,6 +23,10 @@ echo "Removing existing files"
 
 rm -rf public/*
 
+echo "Copying back CNAME file"
+
+cp CNAME public/
+
 echo "Generating site"
 
 hugo
