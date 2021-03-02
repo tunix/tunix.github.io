@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alper Kanat</title>
-    <link>http://alperkan.at/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Alper Kanat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <managingEditor>me-@-alperkan.at</managingEditor>
     <webMaster>me-@-alperkan.at</webMaster>
-    <lastBuildDate>Tue, 24 Nov 2020 23:16:41 +0300</lastBuildDate><atom:link href="http://alperkan.at/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 23:16:41 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merhaba Dünya!</title>
-      <link>http://alperkan.at/2020/11/hello-world/</link>
+      <link>/2020/11/hello-world/</link>
       <pubDate>Tue, 24 Nov 2020 23:16:41 +0300</pubDate>
       <author>me-@-alperkan.at</author>
-      <guid>http://alperkan.at/2020/11/hello-world/</guid>
+      <guid>/2020/11/hello-world/</guid>
       <description>Merhaba Dünya! 🙂
 Adettendir; ilk günceler hep &amp;ldquo;Merhaba Dünya!&amp;rdquo; diye başlar. Yeni site de yayın hayatına böyle başlasın istedim. Her ne kadar yazım deneyimini sevsem de, Medium&amp;rsquo;un içinden geçtiği değişim beni genel anlamda rahatsız ediyor.
 Özetlersem;

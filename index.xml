@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alper Kanat</title>
-    <link>http://alperkan.at/</link>
+    <link>/</link>
     <description>Recent content on Alper Kanat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <managingEditor>me-@-alperkan.at</managingEditor>
     <webMaster>me-@-alperkan.at</webMaster>
-    <lastBuildDate>Tue, 24 Nov 2020 23:16:41 +0300</lastBuildDate><atom:link href="http://alperkan.at/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 23:16:41 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merhaba Dünya!</title>
-      <link>http://alperkan.at/2020/11/hello-world/</link>
+      <link>/2020/11/hello-world/</link>
       <pubDate>Tue, 24 Nov 2020 23:16:41 +0300</pubDate>
       <author>me-@-alperkan.at</author>
-      <guid>http://alperkan.at/2020/11/hello-world/</guid>
+      <guid>/2020/11/hello-world/</guid>
       <description>Merhaba Dünya! 🙂
 Adettendir; ilk günceler hep &amp;ldquo;Merhaba Dünya!&amp;rdquo; diye başlar. Yeni site de yayın hayatına böyle başlasın istedim. Her ne kadar yazım deneyimini sevsem de, Medium&amp;rsquo;un içinden geçtiği değişim beni genel anlamda rahatsız ediyor.
 Özetlersem;
@@ -24,10 +24,10 @@ Adettendir; ilk günceler hep &amp;ldquo;Merhaba Dünya!&amp;rdquo; diye başlar
     
     <item>
       <title>Hakkımda</title>
-      <link>http://alperkan.at/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 23 Nov 2020 01:40:47 +0300</pubDate>
       <author>me-@-alperkan.at</author>
-      <guid>http://alperkan.at/about/</guid>
+      <guid>/about/</guid>
       <description>Merhaba, ben Alper Kanat. 👋
 Yaklaşık 7 senedir commencis&amp;lsquo;te çalışıyorum. İlk olarak İstanbul&amp;rsquo;da, Sr. Software Engineer olarak başladığım yolculuk, bir süre Lead Developer olarak devam ettikten sonra Solution Architect olarak devam ediyor. 2015&amp;rsquo;te İYTE&amp;rsquo;deki ofisin açılmasını fırsat bilerek İzmir&amp;rsquo;e yerleştim. 🌞
 Kariyerimin büyük bir bölümünde, girişimlerde Full Stack olarak çalışmakla beraber kendimi daha çok Backend + DevOps tarafına yakın gördüğümü söyleyebilirim. 2016&amp;rsquo;dan bu yana commencis&amp;lsquo;in dataroid adlı ürününün mimarisine ve altyapısına katkılarda bulunuyorum.</description>

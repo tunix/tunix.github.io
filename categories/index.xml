@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alper Kanat</title>
-    <link>http://alperkan.at/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Alper Kanat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <managingEditor>me-@-alperkan.at</managingEditor>
-    <webMaster>me-@-alperkan.at</webMaster><atom:link href="http://alperkan.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>me-@-alperkan.at</webMaster><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
