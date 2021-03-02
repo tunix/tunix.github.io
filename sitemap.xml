@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://alperkan.at/</loc>
     <lastmod>2021-03-03T02:43:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/11/hello-world/</loc>
+    <loc>https://alperkan.at/2020/11/hello-world/</loc>
     <lastmod>2021-03-03T02:43:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://alperkan.at/posts/</loc>
     <lastmod>2021-03-03T02:43:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://alperkan.at/about/</loc>
     <lastmod>2021-03-03T02:43:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://alperkan.at/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://alperkan.at/tags/</loc>
   </url>
   
 </urlset>
