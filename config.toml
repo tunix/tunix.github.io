@@ -7,7 +7,7 @@ enableGitInfo = true
 # googleAnalytics = ""
 
 [Params]
-  commit = "https://github.com/tunix/tunix.github.io/tree/"
+  commit = "https://github.com/tunix/tunix.github.io/"
   rss = true
   readingTime = true
   logo = "img/avatar.jpg"
