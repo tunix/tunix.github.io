@@ -5,6 +5,8 @@
     <link>http://alperkan.at/categories/</link>
     <description>Recent content in Categories on Alper Kanat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>tr-TR</language><atom:link href="http://alperkan.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>tr</language>
+    <managingEditor>me-@-alperkan.at</managingEditor>
+    <webMaster>me-@-alperkan.at</webMaster><atom:link href="http://alperkan.at/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
