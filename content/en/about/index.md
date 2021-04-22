@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-{{< figure src="/about/harrods.jpg" width="100%" >}}
+{{< figure src="harrods.jpg" width="100%" >}}
 
 Merhaba, ben Alper Kanat. 👋
 
