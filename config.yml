@@ -34,9 +34,10 @@ languages:
         - günlük
         - blog
       homeInfoParams:
-        title: Merhaba!
+        title: Merhaba! 👋
         Content: >
-          Yazılım, kahve, bira ve hayata dair paylaşmak istediğim her şey...
+          [Yazılım](/tags/yazılım), [kahve](/tags/kahve), [bira](/tags/bira) ve ilgi duyduğum, düşüncelerimi paylaşmak 
+          istediğim her konuda yazmaya çalıştığım siteme hoşgeldiniz.
     weight: 1
   en:
     languageName: 🇬🇧
@@ -63,13 +64,14 @@ languages:
         - personal
         - blog
       homeInfoParams:
-        title: Hey there!
+        title: Hey there! 👋
         Content: >
-          My thoughts about software, coffee, beer and everything else...
+          Welcome to my web site where I write stuff I care about such as [software](/tags/software), 
+          [coffee](/tags/coffee), [beer](/tags/beer).
     weight: 2
 
 permalinks:
-  posts: /:year/:month/:filename/
+  posts: /:year/:month/:slug/
 
 minify:
   disableJSON: true
