@@ -1,5 +1,5 @@
 ---
-title: "Merhaba Dünya!"
+title: Merhaba Dünya!
 date: 2020-11-24T23:16:41+03:00
 ---
 

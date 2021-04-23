@@ -3,7 +3,7 @@ title: "Hakkımda"
 date: 2020-11-23T01:40:47+03:00
 cover:
     image: harrods.jpg
-    alt: Picture of me before Harrods in London, UK
+    caption: Picture of me before Harrods in London, UK
 ---
 
 Merhaba, ben Alper Kanat. 👋
