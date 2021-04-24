@@ -13,6 +13,7 @@ tags:
     - bulut
     - günlük
     - sunucu
+    - yazılım
 ---
 
 Bugün itibarıyla kendimi bildim bileli açık tutmak için elimden geleni yaptığım, defalarca kez 
