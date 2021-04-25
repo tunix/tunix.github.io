@@ -1,9 +1,9 @@
 ---
-title: Merhaba Dünya!
+title: (Tekrar) Merhaba Dünya!
 date: 2020-11-24T23:16:41+03:00
 ---
 
-Merhaba Dünya! 🙂
+(Tekrar) Merhaba Dünya! 🙂
 
 Adettendir; ilk günceler hep "Merhaba Dünya!" diye başlar. Yeni site de yayın hayatına böyle başlasın istedim. Her ne kadar yazım deneyimini sevsem de, Medium'un içinden geçtiği değişim beni genel anlamda rahatsız ediyor.
 
