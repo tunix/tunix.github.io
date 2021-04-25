@@ -2,7 +2,6 @@
 title: 24 Haziran 2018, CB & Milletvekili Seçimlerine Dair Gözlemlerim
 date: 2018-06-26
 slug: 24-haziran-2018-cb-mv-seçimlerine-dair-gözlemlerim
-draft: true
 tags:
     - türkiye
     - hayat
@@ -209,7 +208,9 @@ Mahallesi’ndeki Gaziosmanpaşa İ.Ö.O. çıktı.
 İzmir’i laik kesimin kalesi olarak bilenler paylaştığım sandık tutanaklarını görünce gözlerine inanamadılar. Öncelikle 
 Yenişehir Mah.’nden bahsedeyim:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3125.620944043523!2d27.157837000000004!3d38.427124!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ae393c38445a20f!2sGaziosmanpa%C5%9Fa%20Ortaokulu!5e0!3m2!1str!2sus!4v1619299438173!5m2!1str!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+{{< rawhtml >}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3125.620944043523!2d27.157837000000004!3d38.427124!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ae393c38445a20f!2sGaziosmanpa%C5%9Fa%20Ortaokulu!5e0!3m2!1str!2sus!4v1619299438173!5m2!1str!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+{{< /rawhtml >}}
 
 Sabah 06:30 civarında okula gittiğimde, okul müdürü ve 2 müşahitle karşılaştım. Önceki seçimlerden farklı olarak, 
 torbaları sandık başkanlarına değil, okul sorumlularına teslim ediyorlarmış. Vardığımda tüm sandıklara ait torbalar 
@@ -245,3 +246,81 @@ başkanımız yapmaları gerekeni anlattı ve bu kişiler oylarını sorunsuz ş
 söyleyen akrabalarını engelledik; problemsiz oy kullanımı gerçekleşti. Mahalle sakini olan sandık kurulu üyelerimiz, 
 seçmen eğilimleri ve oy kullanım zamanlarıyla ilgili olarak esas hareketin öğleden sonra yaşanacağını söylemişti. O 
 nedenle 11:00 civarında, oyumu kullanmak üzere kendi sandığıma gittim.
+
+Bu ana kadar seçmenle ilgili gözlemlerim:
+
+* Mahalle’nin yerel adı: [Tepecik Tenekeli](https://eksisozluk.com/tenekeli-mahalle--166252)
+* 01 Adana, Çukur vb. dizilerden etkilenerek çekmeye başladıkları bir internet dizileri varmış. Fragmanı 
+  [şurada](https://www.youtube.com/watch?v=f55sr7o8y1k).
+* Sandık kurulumuzda görev yapan mahalleli arkadaşlar seçimde, mahallelinin aksine oldukça tarafsız davrandılar. Onlar 
+  olmasa çok daha fazla problem yaşardık.
+* Okumam yazmam yok diyen çok fazla seçmen var. Ancak sonuçlara bakarak rahatlıkla söyleyebilirim ki; gayet az sayıda 
+  geçersiz oy kullandılar. Oylarını büyük isabetle kullandılar.
+* Öğlene kadar gelen seçmen sayısı 40–50 civarıydı. Öğleden sonra ciddi bir yığılma vardı.
+* Aşırı derecede heyecanlı ve hararetliler. Sürekli bağırarak konuştukları için aşırı gürültülü ve kaotik bir ortamda 
+  görev yaptık.
+
+Beklediğimiz gibi öğleden sonra hareketlenme başladı. Oy kullanmasına rağmen sandık başında ailesini bekleyenler, 
+karısıyla oy kullandırmadığımız için kızıp bağıranlar, akrabası oy kullanırken _"AKP'ye bas"_, _"ampule bas"_ diyenler, 
+oyunun fotoğrafını çekenler vs. derken türlü türlü usülsüzlükler maalesef yaşandı. Sandık alanı, çoğunlukla görev 
+yapmakta zorlandığımız; deyim yerindeyse kaotik bir yer haline geldi.
+
+Öğlen 13:30–15:00 arasında kaos, yerini şiddete bıraktı. Sebebini tam olarak bilmediğimiz bir sebepten ötürü okul 
+binasında ve bahçede tekme tokat kavga çıktı. Okul bahçesine 3 polis aracı geldi ve müdahele edip bahçedeki insanları 
+dağıttılar. Bir süre yatışmış gibi görünse de; kısa bir süre sonra kavga eden kişilerden biri bizim sandığın 
+başındaydı. 15:00'e doğru okul bahçesine bir ambulans geldi. Ne kadar doğru bilmiyorum ama HDP’li birinin yaralandığı 
+bilgisi geldi. Bizim sandıkta HDP’yi ve MHP’yi temsil eden arkadaşlar da maalesef sandık başına gelen kişilerce 
+terörize edildi. Okul bahçesinde sivil polis görünümlü, belinde kelepçe taşıyan birinin, polislerin yanında insanlara 
+bağırdığını, bir ara okul müdürünü tartakladığını gördüm ve maalesef polis, olaylara müdahele etmekten çok ortalığı 
+yatıştırıp pek karışmamayı tercih etti. Sonrasında burada yazamayacağım kadar çok şey yaşandı. Bu şartlar altında 
+sandık görevlileri ve müşahitler olarak bizlerin, yaşanan usülsüzlüklere karşı tutanak tutması pek mümkün değildi. Tek 
+tesellim; en azından bizim sandıkta usulsüzlükler ve sorunlar yaşanmasına rağmen, oy kullanma işlemleri sorunsuz bir 
+şekilde tamamlandı ve sayıma geçtik.
+
+Sayım esnasında, okul binasının giriş kapısının kapatıldığını ve dışarıdan girişlere (tanınan belli kişiler hariç) izin 
+verilmediğini öğrendim. Girişte biri kadın, 3 polis dışında bina etrafında hiç polis olmaması sayımın selâmeti 
+açısından risk teşkil etse de sayımı, oy kullanma sürecine göre sıfır sorunla tamamlayıp 20:00 civarında ıslak imzalı 
+tutanaklarla sınıftan ayrılabildik.
+
+Elimdeki tutanakların, Adil Seçim uygulaması üstünden fotoğraflarını çekip paylaşmak istedim ancak benim bunu yaptığım 
+saatlerde uygulama maalesef çalışmıyordu. Fotoğraflarını çekip sonra atarım diye düşündüm ancak T3 ve Adil Seçim 
+uygulaması yalnızca fotoğraf çekimiyle çalışıyormuş. Islak imzalı tutanakların orjinallerini CHP’nin bina sorumlusuna 
+teslim ettiğim için bu biraz sorun oldu. Sonradan bilgisayar ekranını kullanarak Adil Seçim’e yükleyebildim ama T3'te 
+başarılı olamadım.
+
+---
+
+### Seçim Sonrası
+
+Görev yaptığımız mahallede ezici bir AKP üstünlüğü söz konusu. CB adayları ve partiler adına orada bulunuyor gibi 
+görünsek de; inanılmaz tarafsız kaldığımızı, kalabildiğimizi söyleyebilirim. Tabii ki; herkesin eğilimini bilmiyorum 
+ancak en çok gözlemlediğim şey, AKP seçmeninin diğer seçmenlerin iradesine büyük oranda saygı duymadığı yönünde. Sayım 
+esnasında CHP müşahidi olarak, AKP’nin en az 2 kere, MHP’nin 1 kere oyunu düzelttim. Çok rahatlıkla ifade edebilirim 
+ki; görüşlerimiz tamamen zıt olsa da, AKP’den ve politikalarından rahatsız olsam da, herkesin oylarına sahip çıkmak 
+için elimden geleni yaptım. Sandık kurulu başkanının ve üyelerinin de bu konudaki çabalarına şahidim. Ayrıca seçmenin 
+çeşitli usülsüzlükler olmasına rağmen oy çalma girişimine tanık olmadım. AKP’ye gönül veriyorlar, hatta partizanlar. 
+Ama oy sandıklarına AKP girdi, AKP çıktı. Bizim görevimiz, seçmen iradesinin sandığa yansıdığından emin olmaktı; 
+renginden değil.
+
+Bu seçime kadar, AKP’nin bir çok bölgede, ekonomik şartları da kullanarak seçmenlerin zaaflarından faydalandığını, boş 
+zarf verip dolusunu para karşılığı alarak, seçmen iradesini satın aldığına inanıyordum. Nitekim bundan dolayı da 
+mühürsüz oy konusuna özel önem verdik. (ama hiç çıkmadı) Eminim bunlar belli bölgelerde yaşanmıştır da; nitekim sosyal 
+medyada örneklerini görüyoruz. Bu seçime maalesef 
+[kan da bulaştı](https://www.sozcu.com.tr/2018/gundem/iyi-parti-ilce-baskani-olduruldu-2484074/).
+
+Ancak bir de “herşeye rağmen reis” diyen, AKP’den çok Tayyip Erdoğan’ı destekleyen; onunla sonuna kadar gidecek bir 
+kitle var. Biz kendi gerçeklerimizle yaşayıp, diğer grubu tamamen yok farzederek ülke gerçeklerinden kopuyoruz 
+gerçekten. Ülke olarak uçurumdan yuvarlanmadan, felâketler yaşamadan bu insanları nasıl kazanırız, nasıl iknâ ederiz 
+ya da edebilir miyiz; onu düşünmek lazım.
+
+Kendim ve Türkiye açısından bakarsak; ben yenilgiyi henüz hazmedemedim. Muharrem İnce’ye ve başaracağına çok ama çok 
+inanmıştım. Hala da inanıyorum. Yenilgiyi kabullenip rakibine hakkını teslim ederek, demokrasiye olan inancını 
+gösterdiği ve hepimize örnek olduğu için de kendisine minnettarım. Kemal Kılıçdaroğlu’nun istifa ederek yerini Muharrem 
+İnce’ye bırakması ve CHP’nin yeniden yapılanarak Tayyip Erdoğan ve AKP’siz de bir Türkiye’nin mümkün olabileceğini 
+halka anlatabilmesi gerekiyor.
+
+Başkanlık sisteminin yanlış olduğunu, tek kişiye verilen bu denli “dengesiz” gücün, öncelikle muhalif kesime, 
+sonrasındaysa herkese zarar vereceğine inanıyorum. Yüce önder Mustafa Kemal Atatürk’ün söylediği gibi: **"Hakimiyet 
+kayıtsız, şartsız milletindir"** ve öyle kalmalıdır.
+
+Seçimler ülkemiz adına hayırlı olsun.
