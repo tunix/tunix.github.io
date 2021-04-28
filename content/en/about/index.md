@@ -17,4 +17,4 @@ engineer. Since 2016, I've been working on [commencis](https://www.commencis.com
 [dataroid](https://www.dataroid.com/), contributing its architecture and infrastructure.
 
 Please feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/tunix/), 
-[telegram](https://t.me/alperkanat), [twitter](https://twitter.com/tunix) or by [e-posta](mailto:me@alperkan.at).
+[telegram](https://t.me/alperkanat), [twitter](https://twitter.com/tunix) or by [e-mail](mailto:me@alperkan.at).
