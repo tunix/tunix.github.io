@@ -131,14 +131,15 @@ Bu konuda kriterlerim şöyleydi:
 
 * Kendi alan adımı kullanabilmem
 * Güvenilir ve kararlı bir hizmet alabilmek
-* Arayüz tasarımı (+ mümkünse Linux desteği olması)
+* Arayüz tasarımı
+* Android & Linux desteği olması
 * E-Posta'larımı bir şekilde taşıyabilmek
 
 Bu noktada değerlendirdiğim alternatifler şöyleydi:
 
 * Microsoft Office 365 (😱)
-* Tutanota
-* ProtonMail
+* [Tutanota](https://tutanota.com/)
+* [ProtonMail](https://protonmail.com/)
 * Yandex Mail
 
 Elbette bunlar dışında ZOHO vb. alternatifler de vardı ancak bana hem 90'ları çağrıştırdığı, hem de diğer bazı
@@ -159,7 +160,11 @@ diyebilirim. (en olmadık yerlerde Rusça dökümantasyona vs denk gelmesi de ca
 
 Tutanota, ProtonMail ile birlikte karşıma en fazla çıkan adaylardan biriydi. Tutanota'nın arayüz tasarımı ve kullanıcı
 deneyimi bana çok hitap etmiyordu. ProtonMail'ı daha önce de 1-2 kez değerlendirmiş ancak e-posta'larımı taşımam için
-yaptıkları aracın Linux'da çalışmaması vs vazgeçmeme sebep olmuştu.
+yaptıkları aracın Linux'da çalışmaması vs vazgeçmeme sebep olmuştu. Bu kez tekrar bir şans vermek istedim ve hem taşıma
+işlerini Web üzerinden halledebildiklerini, hem de yeni web/android arayüzlerinin yolda olduğunu öğrendim.
+
+Sonuç itibarıyla; taşıma işleminin çözülmüş olması ve yeni tasarımların bana daha çok hitap etmesi nedeniyle ProtonMail
+ile ilerlemeye karar verdim.
 
 ### Geçiş 🤯
 
