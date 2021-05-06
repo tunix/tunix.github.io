@@ -164,12 +164,130 @@ yaptıkları aracın Linux'da çalışmaması vs vazgeçmeme sebep olmuştu. Bu 
 işlerini Web üzerinden halledebildiklerini, hem de yeni web/android arayüzlerinin yolda olduğunu öğrendim.
 
 Sonuç itibarıyla; taşıma işleminin çözülmüş olması ve yeni tasarımların bana daha çok hitap etmesi nedeniyle ProtonMail
-ile ilerlemeye karar verdim.
+ile ilerlemeye karar verdim. ProtonMail'ın mobil uygulamaları şu an için oldukça yetersiz durumda ancak 2021 içerisinde
+uygulamaların bir beta sürümüyle tamamen yenilenmesi bekleniyor.
+
+#### Google Calendar
+
+Bir çok ürünün e-posta hizmetiyle birlikte sağladığı hizmetlerin başında takvim hizmeti de geliyor. Önceki denememde
+ProtonMail'ın bir takvim uygulaması üzerinde çalıştığını öğrenmiştim ama neye benzeyeceği bile belli değildi. Bu
+denememde ise tam denk geldi ve uygulama, beta olarak kullanıma açıldı. Burada dikkat edilmesi gereken konular şunlar:
+
+* Google'ın aksine ProtonMail e-posta'larınızı okuyup otomatik davetiye eklemiyor. Gelen e-posta'nın içerisinde bir
+  davetiye varsa takviminize ekleyebiliyorsunuz.
+* Entegrasyon konusu zayıf. Sağdan soldan Google Calendar'a ekle, Outlook'una ekle gibi bağlantılar artık size hitap
+  etmeyecek. Ayrıca masaüstü uygulamalarla entegrasyon konusu da tüm verinin şifrelenmesi nedeniyle pek mümkün
+  görünmüyor.
+* Katılacağınız etkinliklerden aldığınız *.ics dosyalarını Proton Calendar'a aktarabiliyorsunuz. Aynı yöntemi Google
+  Calendar'dan takviminizi aktarırken de kullanabiliyorsunuz.
+* Mobil uygulaması yeni çıktı ve fena değil. Hatırlatıcı vs kurabiliyorsunuz.
+
+#### Google Photos
+
+Bu konuda Google'ın pek bir rakibi olmadığını rahatlıkla söyleyebilirim. Araştırdığımda şu alternatifler karşıma çıktı:
+
+* [NextCloud](https://nextcloud.com/)
+* [Piwigo](https://piwigo.org/)
+* [Flickr](https://www.flickr.com/)
+
+Maalesef bu servislerin hiç biri f/p anlamında Google Photos'un eline su dökemiyor. Google Photos'un Android ile olan
+entegrasyonu, fotoğrafları otomatik olarak kataloglaması, sık sık geriye dönük olarak hatırlatma yapması, çeşitli
+kolajlar yapması ve bunların diğer servislerle birlikte bir paket halinde gelmesi büyük avantaj. Eğer fotoğraflarınız
+(evde ya da bulutta) kendi kontrolünüzdeki bir sunucuda dursun istiyorsanız Nextcloud'a bir şans verebilirsiniz.
+
+Google'dan çıkarken beni en çok düşündüren servis buydu. Çünkü eşimle paylaştığım bir çok albümüm var; albümleme ve
+etiketleme konusunda ciddi emek sarfettiğim bir fotoğraf koleksiyonum var. Hesabımı sildiğim anda bunların ne kadarının
+gideceği/kalacağı ya da ne ölçüde etkileneceğim kısmı çok net olmadığı için üstümde en çok stres yaratan konulardan biri
+buydu.
+
+#### Contacts
+
+ProtonMail'ın bu konuda bir hizmeti var ancak maalesef yalnızca ProtonMail bünyesinde kullanılabiliyor. Henüz Android
+telefonunuzla senkronize olması gibi özellikleri bulunmuyor. Bir Android kullanıcısı olarak bu ihtiyacımı hala Google 
+Contacts üzerinden görüyorum.
+
+#### Drive
+
+Zamanında Dropbox'tan Google'a geçmiş ve bir daha geriye bakmamıştım. Dropbox'ı bırakmamda 2 temel sebep belirleyici
+neden olmuştu:
+
+1. Fiyat farkı -- (Google ile aralarında neredeyse yarıdan fazla fark vardı)
+2. Linux desteğinin olmaması (şimdi Dropbox'ın var, Google'ın yok 😊)
+
+Drive'da birikmiş epey bir dosyam var. Bilgisayarda bir şey tutmak yerine her şeyi Google ve Github'da tuttuğum için
+kolaylıkla bilgisayar da değiştirebiliyorum. Aynı sebepten dolayı bilgisayarlarımdaki diskleri çok önemsemiyordum;
+dolayısıyla dosyalarımı tek bir bilgisayarda saklamam mümkün değildi. 🤦
+
+ProtonMail'ın [Proton Drive](https://protonmail.com/blog/proton-drive-early-access/) adında bir hizmet üzerinde 
+çalıştığını biliyorum ancak hem pahalı, hem de ücretli üyeliklerin üst dilimlerine servis veriyorlar. Verdikleri disk 
+alanı da çok yeterli değil. Dropbox, OneDrive ve hatta Keybase gibi ürünlerin hizmetlerini kullanmayı düşündüm ama ya
+fiyata ya da başka konulara takıldım.
+
+Her halükarda Google ürünlerini kullanmaya devam edeceğim için, eşimi de düşünerek, Google One hizmeti de satın alarak
+Google Drive kullanmaya devam etme kararı aldım.
 
 ### Geçiş 🤯
+
+Öncelikle en çok kullandığınız servisleri not edin ve her biri için tek tek veriyi nasıl dışarı çıkarabileceğinizi
+öğrenmeye çalışın. Vazgeçebileceğiniz verileriniz varsa bunları da not edin. Çünkü geçiş maalesef sorunsuz olamıyor.
+Google Takeout hizmeti sayesinde Google servislerindeki tüm verilerinizi sıkıştırılmış bir arşiv olarak dışarı
+alabiliyorsunuz. Ancak bu noktada bilmeniz gereken bazı önemli konular var:
+
+* Google Takeout arayüzünden hangi servislerdeki verileri çıkarmak istediğinizi seçme imkanı veriyor. Bu sayede
+  gerçekten ihtiyacınız olmayacak servislere dair veriyi hariç tutabiliyorsunuz.
+* Takeout'un tüm verinizi çıkarması, Google'daki verinizin boyutuna göre değişiyor. Hazır olduğunda, verinizi
+  indirebileceğiniz bağlantıyı içeren bir e-posta alıyorsunuz. Tıklayınca açılan sayfada eşit parçalara ayrılmış zip
+  dosyalarıyla karşılanıyorsunuz.
+* Her zip dosyasını yalnızca bir kaç kez indirme hakkınız var. Diyelim ki; internet bağlantınızda sıkıntılar var ve 
+  dosyaları indirirken transfer dondu. 2. ya da 3. denemeden sonra arşivin o parçasını tekrar indiremiyorsunuz. Olur da
+  böyle bir duruma düşerseniz; Google Takeout sürecini baştan başlatmanız gerekiyor.
+* Takeout'un çıkardığı dosyalar bir arşivin parçaları değil, birbirinden ayrı arşivler şeklinde çıkıyor. İşin daha da
+  enteresanı; aynı servise ait dosyalar, farklı arşivlerden çıkabiliyor.
+* Örneğin Google Photos'daki tüm veriyi çıkardığınızda fotoğraflarınızın orjinallerine ulaşabiliyorsunuz ancak
+  fotoğraflarınıza ait meta verileri (beğeniler, yorumlar, Google'ın ürettiği içeriksel bilgiler vb.) JSON dosyaları 
+  olarak çıkarıyor ve bunları tekrardan içeri almak isterseniz kullanamıyorsunuz.
+
+Peki Google Takeout ile tüm veriyi indirmek bir işe yarıyor mu derseniz; tartışılır. Önce hangi servisi nasıl
+geçirdiğimden bahsedeyim...
+
+#### GMail
+
+Geçmiş e-posta'larınızı bir yana bırakırsak; bir servisten diğerine geçerken ilk yapacağınız şey alan adı kayıtlarınızı
+düzenlemek olmalı. Alan adınızı nereden yönetiyorsanız; arayüzünden MX kayıtlarını yeni servise yönlendirerek
+başlayabilirsiniz. DNS kayıtları güncellendiği anda yeni gelen e-posta mesajları yeni servise düşmeye başlayacaktır.
+
+Eski e-posta mesajlarımın geçişi için ProtonMail'ın web arayüzünde bulunan geçiş aracını kullandım. Geçiş başladığında 
+arayüzde size işleyişiyle ilgili bir durum çubuğu gösteriyor ve zaman ilerledikçe aktarılan e-posta'ları arşivlerinizde 
+görebilmeye başlıyorsunuz. Benim deneyimimde bu süreç yaklaşık 1 gün kadar sürdü ve işlem tamamlandığında bilgi geldi.
+
+TODO
+
+#### Photos
+
+TODO
+
+#### Drive
 
 TODO
 
 ---
 
-TODO (özet)
+İster Google Chrome nedeniyle senkronizasyon amacıyla kullanın, isterseniz Youtube, Photos, Drive vb başka hizmetler
+için kullanın; bugün herkesin ister istemez bir Google hesabı bir şekilde olmak zorunda. Bu servislerin hem güvenilir,
+hem de yeterince iyi alternatifleri maalesef yok. Android kullanıyorsanız; cihazınızı hakkıyla kullanabilmek için de 
+Google hizmetlerine ister istemez göbekten bağlanıyorsunuz. (en azından garanti içerisinde)
+
+Ben önceliğimi, Google'a bağımlılığımı azaltacak ve makul alternatiflere istediğim an geçebileceğim bir noktaya getirmek
+için böyle bir geçiş yaptım. Aylık $12 verdiğim ancak her gün bir tarafından kırpılan ya da kullanılamaz hale getirilen
+GSuite deneyimini bedava olanıyla değiştirmiş oldum. Yalnızca daha fazla disk alanına ihtiyacım olduğu için [Google
+One](https://one.google.com/about/plans) üyeliği satın aldım; ona da aylık ₺5 gibi bir ücret ödüyorum.
+
+Bu geçişle birlikte şunları da görmüş/yaşamış oldum:
+
+* Kendi alan adınızla e-posta hizmeti kullanmak zormuş ve sizi niş ürünlere götürüyor
+* Her ürün bir şekilde kendine mecbur bırakmaya çalışıyor. Girdikten sonra çıkmanız zor olabiliyor.
+* Bu tür geçişler dikensiz gül bahçesi değil; mutlaka bir şeylerden ferâgât etmek zorundasınız.
+* Kapatacağınız/taşıyacağınız servislerin dökümantasyonlarındaki minik ayrıntılara dikkat edin; küçük ayrıntılar
+  üzebilir
+* Zor olsa da; bu pazarlarda hala alternatif arayan kullanıcılar var. Bu dikeylerden hala güzel ürünler çıkabileceğini
+  düşünüyorum.
