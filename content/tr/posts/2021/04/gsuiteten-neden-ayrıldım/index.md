@@ -2,7 +2,6 @@
 title: GSuite'ten Neden Ayrıldım?
 date: 2021-04-26T00:20:41+03:00
 slug: gsuiteten-neden-ayrıldım
-draft: true
 cover:
     image: gsuite.png
 tags:
@@ -250,6 +249,8 @@ alabiliyorsunuz. Ancak bu noktada bilmeniz gereken bazı önemli konular var:
 Peki Google Takeout ile tüm veriyi indirmek bir işe yarıyor mu derseniz; tartışılır. Önce hangi servisi nasıl
 geçirdiğimden bahsedeyim...
 
+{{< figure src="gmail.jpeg" >}}
+
 #### GMail
 
 Geçmiş e-posta'larınızı bir yana bırakırsak; bir servisten diğerine geçerken ilk yapacağınız şey alan adı kayıtlarınızı
@@ -260,15 +261,37 @@ Eski e-posta mesajlarımın geçişi için ProtonMail'ın web arayüzünde bulun
 arayüzde size işleyişiyle ilgili bir durum çubuğu gösteriyor ve zaman ilerledikçe aktarılan e-posta'ları arşivlerinizde 
 görebilmeye başlıyorsunuz. Benim deneyimimde bu süreç yaklaşık 1 gün kadar sürdü ve işlem tamamlandığında bilgi geldi.
 
-TODO
+Tamamlandığında, aktarımın başarımını ölçmek için maalesef elinizde çok fazla bir imkan bulunmuyor. Taşıma aracı,
+başarılı olup olmadığı ve aktarımın boyutu dışında bir bilgi vermiyor. Boyut olarak yaklaşık olarak beklediğim bir değer
+görüp rastgele e-posta'ları da bulabildiğim için geçişin başarılı olduğunu düşünüyordum. Ancak zaman içerisinde maalesef
+bazı e-posta'ların kayıp olduğunu farkettim. Bu noktada Google Takeout çıktısını ileriye dönük olarak bir kenarda
+tutmakta fayda var.
+
+#### Calendar
+
+Hem Google Takeout'tan, hem de Google Calendar'ın arayüzünden takvimlerinizi `*.ics` ya da iCal biçiminde indirip diğer
+servislere aktarabiliyorsunuz.
 
 #### Photos
 
-TODO
+Google Takeout çıktısını kullanıp kullanmamak seçtiğiniz araca bağlı. Sadece fotoğrafları aktarmanız yeterliyse
+muhtemelen iş görecektir. Benim yaptığım gibi; bir Google hesabından diğerine aktarıyorsanız Photos ayarlarındaki
+Partner Sharing bölümünden yeni hesabınızı ekleyip tüm fotoğrafları yeni hesabınızla paylaşabilirsiniz. Bu noktada
+yalnızca paylaşmanız yetmeyebilir. Kalıcı hale gelmesi için, fotoğraflar tamamen senkronize olduktan sonra bir de
+kaydetme seçeneğini kullanmayı unutmayın.
+
+Google'dan Google'a aktarımda ve Takeout çıktısında maalesef albümler kayboluyor. 😣
 
 #### Drive
 
-TODO
+Drive'ın maalesef hala (!) resmi bir Linux istemcisi bulunmuyor. İster web istemcisi üzerinden, isterseniz de (varsa)
+bilgisayara kurulan istemciler üzerinden Google Takeout çıktısını kullanarak aktarım yapabiliyorsunuz. Ben bir kısmını
+web üzerinden, büyük bir kısmını ise [overgrive](https://www.thefanclub.co.za/overgrive) adındaki üçüncü parti bir 
+istemci aracılığıyla yaptım.
+
+#### Keep
+
+Bu servisin maalesef ne bir API'ı var, ne de notlarınızı aktarabiliyorsunuz.
 
 ---
 
