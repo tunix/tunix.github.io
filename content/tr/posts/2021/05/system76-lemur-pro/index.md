@@ -1,6 +1,6 @@
 ---
 title: System76 Lemur Pro Hakkında
-date: 2021-05-08T01:23:00+03:00
+date: 2021-05-19T01:23:00+03:00
 slug: system76-lemur-pro
 draft: true
 cover:
@@ -251,10 +251,59 @@ TODO
 
 #### Nasıl aldım?
 
-TODO
+System76 hali hazırda 64 ülkeye gönderim [yapıyor](https://system76.com/shipping). Türkiye, maalesef bu ülkeler arasında 
+yer almıyor. ABD ile Türkiye arasındaki ticaret sözleşmeleri maalesef bilgisayarların ticaretine olanak sağlamıyormuş. 
+Bu konuda İngiltere ve AB ülkeleriyle sorunumuz yok. ABD ile sorun yaşamamıza şaşırdım ama konunun detaylarıyla ilgili 
+yeterince bilgi de alamadım.
+
+Aklıma ilk gelen çözüm, İngiltere'deki dayıma yollayıp oradan bir şekilde Türkiye'ye getirtmek oldu. ABD'den
+İngiltere'ye kargo ücreti ~$120 tutuyor. Bu vesileyle öğrenmiş oldum ki; bu fiyatın üzerine, bir de İngiltere'ye 
+girişte %20 civarında vergi (VAT) ekleniyor. Ayrıca İngiltere'nin sınırlarını kapatmış olması nedeniyle bilgisayarı
+ne zaman teslim alabileceğim net değildi. Oradan Türkiye'ye gelirken de gümrüğe takılma durumunu düşününce bu ek
+masraflara girmeden halledebilir miyim diye araştırmaya başladım. Ne de olsa vergiden kaçınmak 
+[ata sporumuz](https://onedio.com/haber/kizilay-baskani-kinik-tan-ensar-vakfi-aciklamasi-vergi-kacirmak-baska-vergiden-kacinmak-baska-895906).
+
+İşte tam da bu noktada karşıma [amerikapostam.com](https://amerikapostam.com/) adındaki site çıktı. Çok kabaca; ABD'den
+aldığınız ürünleri size verdikleri adrese yönlendiriyorsunuz. Gelen her ürün için ayrı ayrı bilgilendiriliyorsunuz. Ve
+istediğiniz an, dilerseniz (küçülterek masrafları düşürmek adına) yeniden paketleme de yaptırarak, Türkiye'deki
+adresinize göndertebiliyorsunuz. Elbette kargo ve gümrük bedellerini ödedikten sonra. 😊 ABD'deki sitelere ödemede
+sorunlar yaşıyorsanız talep etmeniz durumunda sizin adınıza satın alma da yapabiliyorlar. Tüm bu detaylara sitelerinden
+ulaşabilir, sorularınız varsa da Whatsapp'tan iletebilirsiniz. Ben Whatsapp'tan sorduğum tüm sorulara hızlı ve net
+cevaplar aldım. Hem sitelerinden, hem de Whatsapp'tan güven verdikleri; hem de 
+[Ekşi Sözlük](https://eksisozluk.com/amerikapostam-com--4581484)'te son derece olumlu yorumlar gördüğüm için 
+alışverişimde bu siteyi tercih etmekte bir sakınca görmedim.
+
+System76'in sitesinden alışverişimi [papara](https://www.papara.com/)'ya ait sanal kartımla yaptım. Siparişi verdikten
+kısa bir süre sonra telefonla arandım ve kartın gerçek sahibi olduğumun teyidi amacıyla, kart ekstremdeki harcamaya ait
+kodu kendileriyle paylaşmam istendi. Bunu da yaptıktan sonra siparişim onaylandı ve fabrikaya iletildi.
+
+Küresel çip krizi nedeniyle siparişimi bir an önce vermek istediğim için, ilk olarak İngiltere'ye gidecek şekilde
+sipariş verdim. (İyi ki de vermişim çünkü kısa süre sonra sitedeki tüm bilgisayarlar tükendi; hala da stok eklenebilmiş
+değil) Ancak sonradan amerikapostam.com'a yollayacak şekilde değişiklik yaptım. Konuyla ilgili System76'a ulaştım; kısa 
+sürede değişikliği yapıp ~$88'ı kartıma iade ettiler.
+
+Bilgisayar yaklaşık 2 hafta içinde amerikapostam.com'a ulaştı ve yaptıkları ölçümlere dair bir resmi de içeren,
+cihazın kendilerine ulaştığını teyid eden bir e-posta aldım. Bu aşamada yeniden paketleme için bir tercih yapmam
+gerekiyordu. System76'ın bilgisayarı göndermek için kullandığı kutu, olası hasarlara karşı bilgisayarı oldukça iyi
+koruyacak (ve olur da geri göndermem gerekirse diye tekrar kullanılabilir) şekilde tasarlanmış. Türkiye'ye gelirken
+hasar görmesini göze alamadığım için yeniden paketleme talep etmedim. (Yapsaydım 13 LBS olan paket ~3 LBS civarına
+düşecek; kargo fiyatı da 1/3 oranında düşecekti)
+
+Sonuç olarak; amerikapostam.com'un hesapladığı kargo ($75) + gümrük bedeli ~$325 idi. Ödemeyi yaptıktan bir kaç saat 
+sonra  kargonun gönderim için yola çıktığına dair bildirim aldım. 1-2 gün içerisinde JFK havalimanına ulaşmıştı bile. 
+Ve tam olarak geleceğini söyledikleri gün elime ulaştı. 7 Nisan'da sipariş ettiğim bilgisayar, Nisan'ın son haftasında 
+elime ulaştı. Hem doğrudan ABD içi gönderim yaptığım için İngiltere üzerinden yollamaya göre tasarruf etmiş oldum, hem 
+de sınırların kapalı olması nedeniyle yaşayacağım gecikmeden kaçınmış oldum. amerikapostam.com'un verdiği hizmetten son 
+derece memnun olduğumu söylemeliyim.
 
 ### Lemur Pro
 
 {{< figure src="kutu.jpg" caption="System76 bilgisayar kutuları ürünü tamire göndermek için tekrar kullanılabilecek şekilde tasarlanmışlar." >}}
 
 TODO
+
+{{< figure src="lemur_kapali.jpg" >}}
+
+TODO
+
+{{< figure src="lemur_acik.jpg" >}}
