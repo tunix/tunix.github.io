@@ -1,8 +1,7 @@
 ---
 title: System76 Lemur Pro Hakkında
-date: 2021-05-19T01:23:00+03:00
+date: 2021-05-16T01:15:00+03:00
 slug: system76-lemur-pro
-draft: true
 cover:
     image: system76.png
 tags:
@@ -109,17 +108,17 @@ almamış olsaydım muhtemelen bu bilgisayarı alırdım.
 ### TUXEDO InfinityBook S 14
 
 Almanya'da bulunan [TUXEDO](https://www.tuxedocomputers.com/en), piyasanın eski oyuncularından. Farklı pek çok 
-modelleri var ancak hepsinde [Clevo](http://clevo.tw/)'nun şaselerine yer veriyorlar. Bunların bir çoğu oldukça hantal 
-göründüğünden bana hitap etmiyordu.
+modelleri var ancak hepsinde [Clevo](http://clevo.tw/)'nun şaselerine yer veriyorlar. Daha önce, bunların bir çoğu 
+oldukça hantal göründüğünden bana hitap etmiyordu.
 [Yukarıda bahsettiğim model](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/10-14-inch/TUXEDO-InfinityBook-S-14-v6.tuxedo)
 ise Lemur Pro ile aynı kasayı kullanıyor. Ayrıca yine beğendiğim, farklı şaselere yer verdikleri; hatta AMD Ryzen 
 platformunu kullandıkları modelleri de mevcut.
 
 TUXEDO'nun bence bir kaç önemli artısı da var:
 
-* Bir çok modeli Türkçe klavye düzeniyle yollayabiliyorlar
+* Bir çok modeli Türkçe klavye düzeniyle yollayabiliyorlar.
 * Benim beğendiğim model de dahil olmak üzere; bir çok modele LTE modülü eklenebiliyor.
-* Türkiye dahil pek çok ülkeye kargo yollayabiliyorlar.
+* Türkiye dahil pek çok ülkeye gönderim yapabiliyorlar.
 
 System76 ve Starlabs'dan sonra bir gözüm hep TUXEDO'da idi. Intel Iris XE platformuna sahip modelleri sanırım biraz geç
 açıkladılar ve bence System76 ve Starlabs'a göre en büyük eksiklikleri, coreboot'un yokluğu ve rakiplerine göre fazla 
@@ -247,7 +246,36 @@ sağlayabilmiş değiller ancak takip etmekte fayda var.
 
 #### coreboot & EC firmware
 
-TODO
+[coreboot](https://www.coreboot.org/), pek çok mimariyi destekleyen, açık kaynak kodlu bir firmware'dir. Bilgisayarın 
+başlatılabilmesi için gerekli olan kod dışında bir şey içermez ve gerisini işletim sistemi seviyesine bırakır. Bu 
+nedenle de coreboot'u kullanan bilgisayarlar hızlı başlamalarıyla (boot) bilinirler.
+
+EC (Embedded Controller) firmware adı verilen ikincil firmware ise bilgisayarın (fan çalışma eğrileri, klavye düzeni
+vb.) diğer bazı önemli işlevlerini yönetiyor. Bu ikisinin ayrı olması, aslında sorunların ayrıştırılmasını (separation 
+of concerns) ve kişiye/modele özel özelleştirme yapılmasını kolaylaştırıyor.
+
+System76, [açık kaynaklı firmware kullanarak](https://support.system76.com/articles/open-firmware-systems/)
+bilgisayarlarının kapalı kaynak kodlu firmware'lere kıyasla pil performansı, fan çalışma eğrileri, genel performans
+anlamında daha iyi ve hızlı çalıştığını iddia ediyor. EC firmware'in [GitHub sayfasına](https://github.com/system76/ec) 
+bakarsanız belli konularda sıklıkla PR aldıklarını ve bunların gelişerek kullanıcının hayatında olumlu değişikliklere
+yol açtığını görebilirsiniz. Örneğin [Jason Evangelho](https://twitter.com/killyourfm)'nun Forbes için 
+[yazdığı](https://www.forbes.com/sites/jasonevangelho/2020/06/07/system76-lemur-pro-owners-are-about-to-get-a-free-performance-boost/?sh=2f4922971129) 
+bir inceleme/karşılaştırma yazısında, Lemur Pro'nun diğer modeller karşısında bazı eksikliklerini olduğunu görmesi ve
+bunu System76 mühendisleriyle konuşması sonrasında kısa sürede yapılan performans iyileştirmelerinden bugün tüm Lemur 
+Pro kullanıcıları faydalanıyor.
+
+{{< figure src="pgdnup.jpg" caption="Lemur Pro'nun herkesçe eleştirilen PgUp & PgDn tuş düzeni" >}}
+
+Bir de kendimden örnek vereyim. Yukarıdaki görselde de gördüğünüz üzere; Lemur Pro'nun `Page Up` & `Page Down` tuşları
+maalesef yön tuşlarıyla dipdibe. Bu durum nedeniyle herhangi bir şey yazarken sıklıkla bu tuşlara basıyor ve saçma sapan
+sorunlar yaşıyordum. [Şu sayfada](https://github.com/system76/ec/blob/master/doc/keyboard-layout-customization.md) yazan 
+yönergeleri takip ederek EC kodunda bu tuşları sol ve sağ olarak yeniden düzenledim ve Fn tuşuna basıldığında `PgUp` & 
+`PgDn` olarak davranmalarını sağladım.
+
+Elbette EC güncellemesinin yanlış gitmesi sonucu bilgisayarımı geçici bir süre kullanamama riskim de mevcut ancak bu 
+özgürlük ve klavye düzenimi tamamen değiştirebiliyor olmak çok daha önemli. Öte yandan bu tür düzenlemeleri EC
+güncellemelerinden bağımsız hale getirmek ve hatta işletim sistemi tarafından kontrol edilebilir hale getirmek için de
+bir [PR](https://github.com/system76/ec/pull/63) mevcut.
 
 #### Nasıl aldım?
 
@@ -294,16 +322,83 @@ sonra  kargonun gönderim için yola çıktığına dair bildirim aldım. 1-2 g�
 Ve tam olarak geleceğini söyledikleri gün elime ulaştı. 7 Nisan'da sipariş ettiğim bilgisayar, Nisan'ın son haftasında 
 elime ulaştı. Hem doğrudan ABD içi gönderim yaptığım için İngiltere üzerinden yollamaya göre tasarruf etmiş oldum, hem 
 de sınırların kapalı olması nedeniyle yaşayacağım gecikmeden kaçınmış oldum. amerikapostam.com'un verdiği hizmetten son 
-derece memnun olduğumu söylemeliyim.
+derece memnun kaldığımı söylemeliyim.
 
 ### Lemur Pro
 
 {{< figure src="kutu.jpg" caption="System76 bilgisayar kutuları ürünü tamire göndermek için tekrar kullanılabilecek şekilde tasarlanmışlar." >}}
 
-TODO
+En başta bilgisayar seçerkenki kriterlerimden bahsetmiştim. Kullandığım şirket bilgisayarları genellikle 15" ve oldukça
+ağırlar. Bu nedenle 13-14" boyutunda bir bilgisayar tercih ediyorum. Dürüst olmam gerekirse bu formun ne denli minyon
+olabildiğini unutmuşum. 😊 Fotoğraflardan çok anlaşılmasa da bilgisayarı görünce ufak çaplı bir şok geçirmedim desem
+yeridir.
+
+{{< figure src="dell_ile_karsilastirma.jpg" caption="Kıyaslamak için Dell Precision 5530 ve Lemur Pro üst üste" >}}
+
+Kocaman kutudan bilgisayarın dışında taşıması kolay 65W gücünde bir adaptör çıkıyor. Kablo uzunluğuyla ilgili yoğun
+eleştiriler alsa da ABD tipi fişi değiştirirken 3 mt'lik bir kablo tercih ederek bu problemin üstesinden geldim.
+Bilgisayar USB-C üzerinden de şarj olabiliyor ama kutudan çıkan adaptör barel tipinde. ~2-3 saat içerisinde tam şarj 
+sağlıyor.
+
+Kutudan bunun haricinde bir adet ekran silme bezi, bir kaç yapıştırma dışında bir şey çıkmıyor.
 
 {{< figure src="lemur_kapali.jpg" >}}
 
-TODO
+Bilgisayar ~1 kg civarında ve magnezyum kasalara benzer plastiğimsi bir yüzeye sahip. Zaman zaman çantamı kaldırırken
+bilgisayarı unutmuş olabilir miyim diye açıp kontrol ettiğimi itiraf etmeliyim. 😊 Zevkler elbette değişir ancak ben
+bilgisayarın genel olarak ucuz/basit görünmediğini ve oldukça hoş bir hissiyatını olduğunu düşünüyorum.
+
+Benim aldığım model şu özelliklere sahip:
+
+* **OS:** Pop!_OS 20.10 (64-bit) (tamamen şifrelenmiş disk ile)
+* **CPU:** 11th Gen Intel® Core i5-1135G7: Up to 4.20 GHz - 8MB Cache - 4 Cores - 8 Threads
+* **Bellek:** 40 GB DDR4 @ 3200 MHz
+* **Disk:** 500 GB PCIe Gen3 Seq Read: 2400 MB/s, Seq Write: 1750 MB/s
 
 {{< figure src="lemur_acik.jpg" >}}
+
+Bilgisayarı açar açmaz beni kurulum asistani karşıladı. Dil/klavye seçimi, kullanıcı tanımı gibi bir kaç adım sonrası
+kullanıma hazır hale geldi ve açılır açılmaz da ilk güncellemeler (firmware dahil) geldi. Tüm güncellemeleri yaptım ve
+ilk günden bu yana gayet güzel bir şekilde çalışıyor.
+
+Bilgisayarla ilgili genel notlarım şu şekilde:
+
+* Dell'de NVIDIA kartı kapatmama rağmen maksimum 3-4 saat görebiliyorum. Bu cihazda ise tüm gün şarj gerekmeden
+  çalışabiliyorum.
+* Zaman zaman yaptığım işe göre, fan sesini duyabiliyorum. Şu ana kadarki deneyimim; hızlı bir şekilde devreye girip en
+  kısa sürede kapanmak üzere ayarlanmış gibi görünüyor. IDE kodu tararken ya da Windows VM (ievms) başlattığımda fan 
+  devreye girebiliyor. IDE özelinde çok uzun süre çalışıyor diyemem ama Windows VM'de aralıksız çalışıyor. Windows VM
+  konusunda genel olarak [bir sıkıntım](https://www.reddit.com/r/System76/comments/n9xgqo/bad_windows_experience_inside_virtualbox/) 
+  var ancak görünüşe bakılırsa başkalarının daha farklı deneyimleri var. Bu konuda denemelere devam edeceğim.
+* Tüm incelemelerde değinildiği üzere; bilgisayarın hoparlörleri maalesef iyi değil. Tizler biraz yüksek kaldığı için
+  müzik dinlemek için çok uygun olduğunu söyleyemem. Toplantı ya da Youtube'dan bir şeyler izlemek için fena değil.
+* Touchpad'i gayet güzel çalışıyor. Birden çok parmakla çalışma alanları arasında gezinebiliyor. 
+  [GNOME 40](https://youtu.be/vK-SwsWnEmo)'ı denemek için sabırsızlanıyorum.
+* 1M 720p kamerası var ve görüntü kalitesi iyi. Cihazda sanırım Windows Hello sensörleri de mevcut; uygun bir vakitte
+  [howdy](https://github.com/Boltgolt/howdy) ile bir deneme yapmayı düşünüyorum. 🤞
+* Klavye ışıkları için 5 kademe var ve kendi kendine sönmüyor. İhtiyacınız yoksa sizin kapatmanız gerekiyor. Cihazda
+  ortam ışığı sensörü olmadığı için bu konuda sanırım bir firmware düzenlemesi de gelemeyecek.
+* FHD mat bir ekrana sahip. Benim için fazlasıyla yeterli ve parlak diyebilirim. Hatta geceleri biraz fazla parlak
+  kaldığı için fazladan kısmak için bir [eklenti](https://extensions.gnome.org/extension/1625/soft-brightness/) kurmam 
+  gerekti.
+
+{{< figure src="neofetch.png" caption="neofetch komut çıktısı (shell olarak `zsh` kullanıyorum bu arada)" >}}
+
+Son olarak; Pop!_OS'le ilgili notlarım şöyle:
+
+* Ubuntu tabanlı bir işletim sistemi olmasına rağmen farklı tercihler yapılan noktalar var. Örneğin GRUB yerine
+  systemd-boot kullanıyor. Çok fazla yorum yapacak kadar konuya hakim değilim ama bu tercih sayesinde Ubuntu 21.04'ün
+  çıkışının [ertelenmesine sebep olan hatadan](https://www.omgubuntu.co.uk/2021/04/why-you-cant-upgrade-to-ubuntu-21-04-for-now) 
+  etkilenmiyordu.
+* Genel olarak Ubuntu'dan daha yalın ve hızlı bir deneyim sunduğunu söylemeliyim.
+* Pop Shell denen ve pencere yönetimini ızgaralara oturtan mod çalışma şeklime yeni bir şekil verdi. COSMIC ile birlikte
+  [gelecek değişiklikleri](https://youtu.be/ydRlDv0heAo) sabırsızlıkla bekliyorum.
+* Ubuntu'dan farklı olarak snap paketleri yerine flatpak tercih edilmiş. Bu konuda ciddi endişelerim vardı ancak snap
+  entegrasyonu oldukça sorunsuz. An itibarıyla 27 flatpak, 22 snap pakedi kurmuş görünüyorum. 😊 Flatpak vs snap
+  konusunda zaman içerisinde ayrı bir yazı hazırlamayı düşünüyorum.
+
+{{< youtube ydRlDv0heAo >}}
+
+Lemur Pro, kargo ve gümrük dahil bana yaklaşık olarak ₺16k civarına geldi. Benzer özelliklerdeki pek çok cihaz maalesef
+₺20-30k bandında satılıyor. Cihazla ilgili şimdilik yazacaklarım bu kadar. Sorularınız varsa her zaman benimle iletişime
+geçebilirsiniz.
