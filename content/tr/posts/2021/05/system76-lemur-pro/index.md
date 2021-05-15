@@ -1,6 +1,6 @@
 ---
 title: System76 Lemur Pro Hakkında
-date: 2021-05-16T01:15:00+03:00
+date: 2021-05-16T01:30:00+03:00
 slug: system76-lemur-pro
 cover:
     image: system76.png
@@ -161,9 +161,9 @@ Faydalandığım diğer kaynaklar şöyle:
 sunucu bilgisayarlar üretmek olan bir girişim. Saydığım tüm üreticiler arasında adından en çok söz ettiren firma
 olmasının başlıca sebepleri arasında coreboot desteğini, Lemur Pro'nun pil performansını ve Thelio serisini sayabilirim.
 Ayrıca dün itibarıyla yalnızca bir bilgisayar üreticisi olmaktan çıkıp bir de 
-[klavye](https://system76.com/accessories/launch) üreticisi oldular. Ayrıca Ubuntu tabanlı 
-[Pop!_OS](https://pop.system76.com/) adını verdikleri işletim sistemiyle de hatırı sayılır bir kullanıcı kitlesine 
-ulaşmayı başardılar. (bu konuya ayrı bir yazıyla yer vermeyi umuyorum)
+[klavye](https://system76.com/accessories/launch) üreticisi oldular. Ubuntu tabanlı [Pop!_OS](https://pop.system76.com/) 
+adını verdikleri işletim sistemiyle de hatırı sayılır bir kullanıcı kitlesine ulaşmayı başardılar. (bu konuya ayrı bir 
+yazıyla yer vermeyi umuyorum)
 
 Özellikle Lemur Pro, (aldığı son donanımsal + yazılımsal güncellemeler sonrasında) yazının başında saydığım kriterlerin 
 neredeyse tamamını sağlıyor. Bunun yanısıra; System76'nın şirket olarak benimsediği vizyon ve değerler ile özellikle 
@@ -216,8 +216,8 @@ Başarılı olmalarını can-ı gönülden istiyorum. Lemur Pro almamış olsayd
 
 {{< youtube fGle6z9KfZQ >}}
 
-System76 ana geliştiricilerinden biri olan Jeremy Soller'ın, Louis Rossman ile yaptığı röportajda beni çok
-şaşırtan/etkileyen bazı notlarımı paylaşmak istiyorum:
+System76 ana geliştiricilerinden biri olan [Jeremy Soller](https://twitter.com/jeremy_soller)'ın, Louis Rossman ile 
+yaptığı röportajda beni çok şaşırtan/etkileyen bazı notlarımı paylaşmak istiyorum:
 
 * Tüm bilgisayarlarını 10+ sene dayanacak şekilde tasarlıyorlar ve tüm iş modelini bunun etrafına konumlamışlar.
 * Asus, Dell, HP vb. bir çok üretici Tayvan'daki bilgisayar üreticilerine bel bağlamış vaziyette. Bilgisayarların
@@ -229,6 +229,10 @@ System76 ana geliştiricilerinden biri olan Jeremy Soller'ın, Louis Rossman ile
   [dökümanlar](https://support.system76.com/articles/service-manuals/) 
   [mevcut](https://tech-docs.system76.com/models/lemp10/repairs.html).
 * Çoğu üretici için marjlar oldukça düşük: ~%5
+
+[Linux 4 Everyone](https://www.linux4everyone.com/) podcast'i için 
+[Jason Evangelho](https://twitter.com/killyourfm)'nun, [Jeremy Soller](https://twitter.com/jeremy_soller) ile yaptığı 
+bölümleri mutlaka dinlemenizi tavsiye ederim:
 
 {{< rawhtml >}}
 <iframe src="https://player.fireside.fm/v2/GTYFbp1j+ODGErxgQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
@@ -261,7 +265,7 @@ bakarsanız belli konularda sıklıkla PR aldıklarını ve bunların gelişerek
 yol açtığını görebilirsiniz. Örneğin [Jason Evangelho](https://twitter.com/killyourfm)'nun Forbes için 
 [yazdığı](https://www.forbes.com/sites/jasonevangelho/2020/06/07/system76-lemur-pro-owners-are-about-to-get-a-free-performance-boost/?sh=2f4922971129) 
 bir inceleme/karşılaştırma yazısında, Lemur Pro'nun diğer modeller karşısında bazı eksikliklerini olduğunu görmesi ve
-bunu System76 mühendisleriyle konuşması sonrasında kısa sürede yapılan performans iyileştirmelerinden bugün tüm Lemur 
+bunu System76 mühendislerine bildirmesi sonrasında, kısa sürede yapılan performans iyileştirmelerinden bugün tüm Lemur 
 Pro kullanıcıları faydalanıyor.
 
 {{< figure src="pgdnup.jpg" caption="Lemur Pro'nun herkesçe eleştirilen PgUp & PgDn tuş düzeni" >}}
@@ -306,9 +310,9 @@ kısa bir süre sonra telefonla arandım ve kartın gerçek sahibi olduğumun te
 kodu kendileriyle paylaşmam istendi. Bunu da yaptıktan sonra siparişim onaylandı ve fabrikaya iletildi.
 
 Küresel çip krizi nedeniyle siparişimi bir an önce vermek istediğim için, ilk olarak İngiltere'ye gidecek şekilde
-sipariş verdim. (İyi ki de vermişim çünkü kısa süre sonra sitedeki tüm bilgisayarlar tükendi; hala da stok eklenebilmiş
-değil) Ancak sonradan amerikapostam.com'a yollayacak şekilde değişiklik yaptım. Konuyla ilgili System76'a ulaştım; kısa 
-sürede değişikliği yapıp ~$88'ı kartıma iade ettiler.
+sipariş verdim. (İyi ki de vermişim çünkü kısa süre sonra sitedeki tüm bilgisayarlar tükendi; bu yazıyı yazdığım esnada 
+hala da stok eklenebilmiş değil) Ancak sonradan amerikapostam.com'a yollayacak şekilde değişiklik yaptım. Konuyla 
+ilgili System76'a ulaştım; kısa sürede değişikliği yapıp ~$88'ı kartıma iade ettiler.
 
 Bilgisayar yaklaşık 2 hafta içinde amerikapostam.com'a ulaştı ve yaptıkları ölçümlere dair bir resmi de içeren,
 cihazın kendilerine ulaştığını teyid eden bir e-posta aldım. Bu aşamada yeniden paketleme için bir tercih yapmam
@@ -346,7 +350,7 @@ Kutudan bunun haricinde bir adet ekran silme bezi, bir kaç yapıştırma dış�
 
 Bilgisayar ~1 kg civarında ve magnezyum kasalara benzer plastiğimsi bir yüzeye sahip. Zaman zaman çantamı kaldırırken
 bilgisayarı unutmuş olabilir miyim diye açıp kontrol ettiğimi itiraf etmeliyim. 😊 Zevkler elbette değişir ancak ben
-bilgisayarın genel olarak ucuz/basit görünmediğini ve oldukça hoş bir hissiyatını olduğunu düşünüyorum.
+bilgisayarın genel olarak ucuz/basit görünmediğini ve oldukça hoş bir hissiyâtının olduğunu düşünüyorum.
 
 Benim aldığım model şu özelliklere sahip:
 
@@ -357,14 +361,14 @@ Benim aldığım model şu özelliklere sahip:
 
 {{< figure src="lemur_acik.jpg" >}}
 
-Bilgisayarı açar açmaz beni kurulum asistani karşıladı. Dil/klavye seçimi, kullanıcı tanımı gibi bir kaç adım sonrası
+Bilgisayarı açar açmaz beni kurulum asistanı karşıladı. Dil/klavye seçimi, kullanıcı tanımı gibi bir kaç adım sonrası
 kullanıma hazır hale geldi ve açılır açılmaz da ilk güncellemeler (firmware dahil) geldi. Tüm güncellemeleri yaptım ve
 ilk günden bu yana gayet güzel bir şekilde çalışıyor.
 
 Bilgisayarla ilgili genel notlarım şu şekilde:
 
 * Dell'de NVIDIA kartı kapatmama rağmen maksimum 3-4 saat görebiliyorum. Bu cihazda ise tüm gün şarj gerekmeden
-  çalışabiliyorum.
+  çalışabiliyorum. (henüz tam ölçüm yapmadım)
 * Zaman zaman yaptığım işe göre, fan sesini duyabiliyorum. Şu ana kadarki deneyimim; hızlı bir şekilde devreye girip en
   kısa sürede kapanmak üzere ayarlanmış gibi görünüyor. IDE kodu tararken ya da Windows VM (ievms) başlattığımda fan 
   devreye girebiliyor. IDE özelinde çok uzun süre çalışıyor diyemem ama Windows VM'de aralıksız çalışıyor. Windows VM
