@@ -8,13 +8,12 @@ cover:
 
 Merhaba, ben Alper Kanat. 👋
 
-Yaklaşık 7 senedir [commencis](https://www.commencis.com/)'te çalışıyorum. İlk olarak İstanbul'da, Sr. Software 
-Engineer olarak başladığım yolculuk, bir süre Lead Developer olarak devam ettikten sonra Solution Architect olarak 
-devam ediyor. 2015'te İYTE'deki ofisin açılmasını fırsat bilerek İzmir'e yerleştim. 🌞
+Türkiye'nin en güzel ve yaşanabilir şehirlerinden biri olan İzmir'deyim 🌞 ve [Trendyol](https://trendyol.com)'un 
+delivery ekibinde görev yapıyorum.
 
-Kariyerimin büyük bir bölümünde, girişimlerde Full Stack olarak çalışmakla beraber kendimi daha çok Backend + DevOps 
-tarafına yakın gördüğümü söyleyebilirim. 2016'dan bu yana [commencis](https://www.commencis.com/)'in 
-[dataroid](https://www.dataroid.com/) adlı ürününün mimarisine ve altyapısına katkılarda bulunuyorum.
+Bu sitede; başta [yazılım](/tags/yazılım), [kahve](/tags/kahve), [ev biracılığı](/tags/bira), 
+[bisiklet](/tags/bisiklet) olmak üzere ilgi duyduğum hobiler ve çeşitli diğer konularla ilgili düşüncelerimi 
+bulabilirsiniz.
 
 Profesyonel kariyerimle ilgili detaylara [LinkedIn profilimden](https://www.linkedin.com/in/tunix/), herhangi bir 
 sorunuz olması halindeyse [telegram](https://t.me/alperkanat), [twitter](https://twitter.com/tunix) ya da 

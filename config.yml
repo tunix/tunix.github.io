@@ -26,7 +26,7 @@ languages:
           url: https://github.com/tunix/notebook
           weight: 5
     params:
-      description: Yazılım, kahve, bira ve hayata dair paylaşmak istediğim her şey...
+      description: Yazılım, kahve, bira, bisiklet ve hayata dair paylaşmak istediğim her şey...
       keywords:
         - alper
         - kanat
@@ -36,8 +36,8 @@ languages:
       homeInfoParams:
         title: Merhaba! 👋
         Content: >
-          [Yazılım](/tags/yazılım), [kahve](/tags/kahve), [bira](/tags/bira) ve ilgi duyduğum, düşüncelerimi paylaşmak 
-          istediğim her konuda yazmaya çalıştığım siteme hoşgeldiniz.
+          [Yazılım](/tags/yazılım), [kahve](/tags/kahve), [ev biracılığı](/tags/bira), [bisiklet](/tags/bisiklet) ve 
+          ilgi duyduğum, düşüncelerimi paylaşmak istediğim her konuda yazmaya çalıştığım siteme hoşgeldiniz.
     weight: 1
   en:
     languageName: 🇬🇧
@@ -57,7 +57,7 @@ languages:
           url: https://github.com/tunix/notebook
           weight: 5
     params:
-      description: My thoughts about software, coffee, beer and everything else...
+      description: My thoughts about software, coffee, home brewery, cycling and everything else...
       keywords:
         - alper
         - kanat
@@ -67,7 +67,7 @@ languages:
         title: Hey there! 👋
         Content: >
           Welcome to my web site where I write stuff I care about such as [software](/tags/software), 
-          [coffee](/tags/coffee), [beer](/tags/beer).
+          [coffee](/tags/coffee), [home brewery](/tags/beer), [cycling](/tags/cycling).
     weight: 2
 
 permalinks:
@@ -77,72 +77,3 @@ minify:
   disableJSON: true
   disableXML: true
   minifyOutput: true
-
-params:
-  env: production
-  author: Alper Kanat
-  description: Yazılım, kahve, bira ve hayata dair paylaşmak istediğim her şey...
-  keywords:
-    - alper
-    - kanat
-    - kişisel
-    - günlük
-    - blog
-
-  defaultTheme: auto
-
-  homeInfoParams:
-    Title: Merhaba!
-    Content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
-
-  socialIcons:
-    - name: email
-      url: mailto:me@alperkan.at
-    - name: github
-      url: https://github.com/tunix
-    - name: gitlab
-      url: https://gitlab.com/tunix
-    - name: twitter
-      url: https://twitter.com/tunix
-    - name: instagram
-      url: https://instagram.com/tunix
-    - name: telegram
-      url: https://t.me/alperkanat
-    - name: linkedin
-      url: https://www.linkedin.com/in/tunix
-
-  ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  disableCodeCopy: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
-  displayFullLangName: true
-
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: /favicon.ico
-    favicon16x16: /favicon.ico
-    # favicon32x32: "<link / abs url>"
-    apple_touch_icon: /favicon.ico
-    # safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: Alper Kanat
-    icon: /img/avatar.jpg
-    iconHeight: 35
-
