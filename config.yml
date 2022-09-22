@@ -6,7 +6,7 @@ enableGitInfo: true
 enableRobotsTXT: true
 googleAnalytics: G-SDT9Y68PM3
 
-defaultContentLanguage: tr
+defaultContentLanguage: en
 languages:
   tr:
     languageName: 🇹🇷
