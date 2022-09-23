@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>macos on Alper Kanat</title>
+    <link>https://alperkan.at/tr/tags/macos/</link>
+    <description>Recent content in macos on Alper Kanat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://alperkan.at/tr/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macOS&#39;te Ekran Görüntüsü Almak</title>
+      <link>https://alperkan.at/tr/2016/10/macoste-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-almak/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/10/macoste-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-almak/</guid>
+      <description>Günlük yazısı yazarken ya da herhangi bir sebepten macOS’te ekran görüntüsü çekme ihtiyacı duydunuz mu? Bu iş için minik uygulamalar kullanıyorsanız artık onlardan kurtulmanın zamanı geldi! Bu yazıda size macOS’te oldukça pratik ekran görüntüsü çekme yöntemlerinden bahsedeceğim.
+Öncelikle tuş kısaltmalarından bahsedeyim:
+CMD: Command Tuşu Klavyenizde boşluk tuşunun solundaki ve sağındaki ⌘ işaretiyle gösterilen tuş.
+CTRL: Control Tuşu Klavyenizde üstünde kntrl ya da ctrl yazan tuş.
+SHIFT Klavyenizin solunda ve sağında ⇧ işaretiyle gösterilen tuş.</description>
+    </item>
+    
+    <item>
+      <title>Docker&#39;laştıramadıklarımızdan mısınız?</title>
+      <link>https://alperkan.at/tr/2016/06/dockerlastiramadiklarimizdanmisiniz/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/06/dockerlastiramadiklarimizdanmisiniz/</guid>
+      <description>Bugün itibarıyla kendimi bildim bileli açık tutmak için elimden geleni yaptığım, defalarca kez farklı teknolojilerle baştan yazdığım raptiye’yi kapatma kararı aldım. Bundan sonraki tüm yazılarımı Medium üstünden sürdüreceğim. Peki raptiye’yi neden kapattım? Çok kısa özetlersem;
+İlk başta yönetim panelinin iPad’de neredeyse çalışmıyor olmasından dolayı motivasyonumu kaybettim. Markdown desteği getirsem de bir türlü istediğim seviyeye getiremedim. İçeriği zenginleştirmek için kullandığım görselleri instagram, flickr gibi harici servislere yüklemiştim. flickr hesabımı kapattım, instagram ise CDN’inde değişiklikler yapmış.</description>
+    </item>
+    
+  </channel>
+</rss>

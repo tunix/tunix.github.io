@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yazılım on Alper Kanat</title>
+    <link>https://alperkan.at/tr/tags/yaz%C4%B1l%C4%B1m/</link>
+    <description>Recent content in yazılım on Alper Kanat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://alperkan.at/tr/tags/yaz%C4%B1l%C4%B1m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Serisi #5 -- Docker Machine &amp; Swarm Bölüm 1</title>
+      <link>https://alperkan.at/tr/2017/10/docker-serisi-5/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2017/10/docker-serisi-5/</guid>
+      <description>bölüme hoşgeldiniz! 🤘🏻 Serinin önceki bölümlerine ulaşmak için aşağıdaki bağlantıları kullanabilirsiniz: Docker Serisi #1 Docker Serisi #2 — Docker Engine Bölüm 1 Docker Serisi #3 — Docker Engine Bölüm 2 Docker Serisi #4 — Docker Compose Serinin bu bölümünde Docker Machine’den ve teknoloji camiasının bu sıralar çok sık duyduğu Docker Swarm’dan bahsedeceğim. Swarm konusu derya deniz olduğundan konuyu 2 ayrı bölüm halinde işleyeceğim. İlk bölümde Docker Machine’den bahsedip Swarm’a giriş yapacağız.</description>
+    </item>
+    
+    <item>
+      <title>Docker Serisi #4 -- Docker Compose</title>
+      <link>https://alperkan.at/tr/2017/03/docker-serisi-4/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2017/03/docker-serisi-4/</guid>
+      <description>bölüme hoşgeldiniz! 🤘🏻 Serinin önceki bölümlerine ulaşmak için aşağıdaki bağlantıları kullanabilirsiniz: Docker Serisi #1 Docker Serisi #2 — Docker Engine Bölüm 1 Docker Serisi #3 — Docker Engine Bölüm 2 Daha çok geliştirme üstüne duracak olsam da, Docker Compose’u test ortamı ya da farklı ihtiyaçlar için de kullanabilirsiniz. Özellikle tek bir makine üstünde birden fazla container ile çalışmayı düşünüyorsanız Docker Compose mutlaka incelemeniz gereken bir araç!
+Güncelleme: Docker 1.13 ile birlikte Docker Compose ile tanımladığınız bir projeyi Swarm ile birden çok makineye dağıtabiliyorsunuz!</description>
+    </item>
+    
+    <item>
+      <title>Docker Serisi #3 -- Docker Engine Bölüm 2</title>
+      <link>https://alperkan.at/tr/2016/10/docker-serisi-3/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/10/docker-serisi-3/</guid>
+      <description>Docker Serisi’nin 3. bölümüne hoşgeldiniz! İlk bölümde sanallaştırmanın ne olduğundan, container teknolojisinden ve temel Docker kavramlarından; ikinci bölümde Docker Engine ve Docker komutlarından bahsetmiştim. Bu bölümdeyse özetle şu konulara değineceğim:
+Kalıcı Veri Depolama Çevresel Değişkenler Bağlantı Noktaları Dockerfile Kendi İmajınızı Hazırlamak Docker Store &amp;amp; Registry Kendi Docker Registry’nizi Kurun Hızlıca başlayalım! 🙂
+Kalıcı Veri Depolama İkinci bölümün docker run komutuyla ilgili olan kısmında container’lara dışarıdan dosya ve dizin bağlanabileceğinden bahsetmiştim. Normalde, ölçeklenebilirliğin ön planda olduğu gerçek ortam container’ları dışarıdan bağımsız çalışabilecek şekilde tasarlanmalıdır.</description>
+    </item>
+    
+    <item>
+      <title>Docker Serisi #2 -- Docker Engine Bölüm 1</title>
+      <link>https://alperkan.at/tr/2016/09/docker-serisi-2/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/09/docker-serisi-2/</guid>
+      <description>Docker Serisi’nin ilk bölümünde sanallaştırmanın ne olduğundan, container teknolojisinden ve temel Docker kavramlarından bahsetmiştim. Serinin bu bölümünde temel Docker komutlarının kullanılmasından bahsedeceğim. Hazırsanız başlayalım! 🙂
+docker &amp;lt;cmd&amp;gt; &amp;hellip; Öncelikle tüm docker komutları docker kelimesiyle başlıyor. Serinin sonraki bölümlerinde bahsedeceğim eklentiler ise docker- ön ekiyle (docker-compose, docker-swarm gibi..) başlıyorlar. Hiç bir parametre vermeden yalnızca bu komutları yazacak olursanız ilgili komuta ait yardım metinleri ekranınıza çıkacaktır. Dolayısıyla docker’ı ya da eklentilerini kurduktan sonra, kurulumunuzun başarılı olduğunu anlamak için ilk yapmanız gereken şey herhangi bir parametre vermeden çalıştırdığınızda yardım metinlerini görüp göremediğiniz olmalı.</description>
+    </item>
+    
+    <item>
+      <title>Docker Serisi #1</title>
+      <link>https://alperkan.at/tr/2016/07/docker-serisi-1/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/07/docker-serisi-1/</guid>
+      <description>Docker’laştıramadıklarımızdan mısınız? başlıklı yazımda bahsettiğim serinin ilk yazısına biraz temelden girerek başlayacağım. Öncelikle İngilizce’niz varsa Docker’ın CTO’su Solomon Hykes’ın yaptığı aşağıdaki sunumu izlemelisiniz.
+Sanallaştırma Hakkında Sanallaştırma, Virtualbox veya VMWare gibi yazılımlardan aşina olabileceğiniz gibi; bilgisayarınızın işlemci, bellek gibi kaynaklarını paylaşan, tamamen ayrı bir bilgisayarmış gibi işletim sistemi çalıştırabileceğiniz teknolojinin genel adı. Bu teknoloji sayesinde örneğin bilgisayarınızda Windows çalışırken Ubuntu ya da Mac işletim sistemlerini performanslı bir şekilde çalıştırıp kullanabilirsiniz. Hatta bazı sanallaştırma yazılımları sayesinde yalnızca bu işletim sistemlerinde çalışabilen uygulamaları gerçek birer Windows uygulamasıymış gibi kullanabilirsiniz.</description>
+    </item>
+    
+    <item>
+      <title>Docker&#39;laştıramadıklarımızdan mısınız?</title>
+      <link>https://alperkan.at/tr/2016/06/dockerlastiramadiklarimizdanmisiniz/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alperkan.at/tr/2016/06/dockerlastiramadiklarimizdanmisiniz/</guid>
+      <description>Bugün itibarıyla kendimi bildim bileli açık tutmak için elimden geleni yaptığım, defalarca kez farklı teknolojilerle baştan yazdığım raptiye’yi kapatma kararı aldım. Bundan sonraki tüm yazılarımı Medium üstünden sürdüreceğim. Peki raptiye’yi neden kapattım? Çok kısa özetlersem;
+İlk başta yönetim panelinin iPad’de neredeyse çalışmıyor olmasından dolayı motivasyonumu kaybettim. Markdown desteği getirsem de bir türlü istediğim seviyeye getiremedim. İçeriği zenginleştirmek için kullandığım görselleri instagram, flickr gibi harici servislere yüklemiştim. flickr hesabımı kapattım, instagram ise CDN’inde değişiklikler yapmış.</description>
+    </item>
+    
+  </channel>
+</rss>

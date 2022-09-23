@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alper Kanat</title>
+    <link>https://alperkan.at/</link>
+    <description>Recent content on Alper Kanat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 May 2021 01:30:00 +0300</lastBuildDate><atom:link href="https://alperkan.at/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About System76 Lemur Pro</title>
+      <link>https://alperkan.at/2021/05/system76-lemur-pro/</link>
+      <pubDate>Sun, 16 May 2021 01:30:00 +0300</pubDate>
+      
+      <guid>https://alperkan.at/2021/05/system76-lemur-pro/</guid>
+      <description>I was using mostly Mac computers from companies I worked for for a long time. Frankly, I can&amp;rsquo;t even remember the last time I had my own computer, when and for how much I sold it.
+There was a time when we built our own desktop computers and computer prices were reasonable. Macs were still expensive, but computer prices were never out of reach . I&amp;rsquo;m seriously worried about the prices we have nowadays.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://alperkan.at/2020/11/hello-world/</link>
+      <pubDate>Tue, 24 Nov 2020 23:16:41 +0300</pubDate>
+      
+      <guid>https://alperkan.at/2020/11/hello-world/</guid>
+      <description>Hello World! 🙂
+As with the common tradition of programming languages, I wanted to start by writing &amp;ldquo;Hello World!&amp;rdquo; as I started my new journey with this site. Despite how much I liked the UX of it, I can&amp;rsquo;t help myself but to hate Medium&amp;rsquo;s current approach of hiding everything behind a paywall and annoy me with popups etc. Also I hated 2 things since the beginning:
+Placing all my comments around Medium as new stories I&amp;rsquo;ve shared &amp;ndash; most of my comments aren&amp;rsquo;t really as constructive as I&amp;rsquo;d think of a &amp;ldquo;story&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://alperkan.at/about/</link>
+      <pubDate>Mon, 23 Nov 2020 01:40:47 +0300</pubDate>
+      
+      <guid>https://alperkan.at/about/</guid>
+      <description>Hi, I&amp;rsquo;m Alper Kanat. 👋
+I currently work at Trendyol and live in Turkey&amp;rsquo;s one of the most beautiful and sunniest city called İzmir. 🌞
+On this site, you&amp;rsquo;ll find my thoughts about software, coffee, home brewery, cycling and other random stuff.
+Please feel free to reach out via my LinkedIn profile, telegram, twitter or by e-mail.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
