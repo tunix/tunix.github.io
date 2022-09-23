@@ -1,0 +1,19 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Publish
+        uses: reuixiy/hugo-deploy@v1
+        env:
+          DEPLOY_REPO: tunix/tunix.github.io
+          DEPLOY_BRANCH: gh-pages
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          TZ: Europe/Istanbul
