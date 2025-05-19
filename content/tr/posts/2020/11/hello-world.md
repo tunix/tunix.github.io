@@ -23,7 +23,7 @@ beni rahatsız eden esas etmenler.
 
 Bu sorulara verilecek cevapların giderek ortaklaştığı bir dönemden geçiyoruz. Sizi bilmem ama ben eskiden, RSS kaynağından gelen içerikleri heyecanla beklediğim o dönemi çok özlüyorum. [Linux Kullanıcıları Derneği](https://www.lkd.org.tr/)'nin çatısı altındaki [Linux Gezegeni](https://gezegen.linux.org.tr/), parçası olmaktan gurur duyduğum ve okumaktan keyif aldığım sitelerin başında geliyordu. Şimdiyse muhtemelen oldukça küçük bir kitleye ulaşabiliyor.
 
-{{< tweet 1257291005377818624 >}}
+{{< x user="zekzekus" id="1257291005377818624" >}}
 
 _Zekeriya'nın RSS'le ilgili attığım bir tweet'e cevabı :)_
 

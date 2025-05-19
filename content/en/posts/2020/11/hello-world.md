@@ -33,7 +33,7 @@ learnt new things every day. A planet site called [Linux Gezegeni](https://gezeg
 proud member was also part of [Turkish Linux Users Association](https://www.lkd.org.tr/) amoung the best of my sources.
 Today, the site barely works. 😞
 
-{{< tweet 1257291005377818624 >}}
+{{< x user="zekzekus" id="1257291005377818624" >}}
 
 _Response (in Turkish) of a Zekeriya Öz to a tweet of mine about the good old RSS :)_
 

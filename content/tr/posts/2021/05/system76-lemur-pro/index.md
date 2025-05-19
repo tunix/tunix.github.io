@@ -85,7 +85,7 @@ Türkiye'de satılmıyor. Hatta Dell XPS 13 modelinin güncel serileri oldukça 
 Bugüne kadar AVM'lerdeki mağazalarda hiç bir zaman bir Dell'e denk gel(e)medim. Dell'in, Türkiye'de daha çok kurumsal
 tarafa odaklandığını ve gerisini umursamadığını [düşünüyorum](https://twitter.com/tunix/status/1351876496726614021).
 
-{{< tweet 1351876496726614021 >}}
+{{< x user="tunix" id="1351876496726614021" >}}
 
 2020 ve 2021 yılları içerisinde Dell, Lenovo gibi bilgisayar üreticileri, çeşitli Linux dağıtımcılarıyla anlaşmalar
 yaparak Fedora ve Ubuntu yüklü olan bilgisayarların artık çevrimiçi mağazalardan, tıpkı Windows yüklü bilgisayarlar gibi
@@ -188,7 +188,7 @@ bundan bolca bahsetmek istiyorum.
 
 #### Tamir Hakkı (Right to Repair)
 
-{{< tweet 1390599847506497542 >}}
+{{< x user="tunix" id="1390599847506497542" >}}
 
 Yeni nesil bilgisayarların çoğunda, son kullanıcı olarak hepimizin çok da farkında olmadığımız bir problem var. Yeni
 nesil bilgisayarlar giderek hafifliyor ve inceliyor. Hepimizin temel kriterleri arasında olan bu duruma ulaşabilmek için
@@ -246,7 +246,7 @@ ABD'de şu aralar Tamir Hakkı konusunda ciddi bir lobi faaliyeti
 [yürütülüyor](https://www.youtube.com/playlist?list=PLkVbIsAWN2lsmovRO20_gtfUfgWi-XnnT). Şimdilik büyük bir başarı
 sağlayabilmiş değiller ancak takip etmekte fayda var.
 
-{{< tweet 1379480063159140352 >}}
+{{< x user="jeremy_soller" id="1379480063159140352" >}}
 
 #### coreboot & EC firmware
 

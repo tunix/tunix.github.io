@@ -5,6 +5,8 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 googleAnalytics: G-SDT9Y68PM3
+ignoreLogs:
+  - shortcode-x-getremote
 
 defaultContentLanguage: en
 languages:

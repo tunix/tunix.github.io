@@ -57,7 +57,7 @@ Despite the fact that Monster is the most accessible vendor of all (afterall it'
 
 Dell XPS 13, which has not lost the first place in the portability and thinness category for years, was the model that has been on my radar for the longest time. For quite some time, they've been running an exciting project with Canonical called [Project Sputnik .](https://bartongeorge.io/2020/01/01/introducing-the-2020-xps-13-developer-edition-this-one-goes-to-32/) For this reason, I wanted to buy a Developer Edition, but this model is not sold in Turkey. In fact, the current series of the Dell XPS 13 model was not on sale in our country for quite a long time. Until today, I never came across a Dell in the stores in the shopping malls. [I think](https://twitter.com/tunix/status/1351876496726614021) Dell focuses more on the corporate side in Turkey and doesn't care about the rest .
 
-{{< tweet 1351876496726614021 >}}
+{{< x user="tunix" id="1351876496726614021" >}}
 
 In 2020 and 2021, computer manufacturers such as Dell and Lenovo have made agreements with various Linux distributors and made many announcements that their computers can be purchased from their online stores with Fedora and Ubuntu, just like computers with Windows. However, this unfortunately did not happen.
 
@@ -120,7 +120,7 @@ Because;
 
 #### Tamir Hakkı (Right to Repair)
 
-{{< tweet 1390599847506497542 >}}
+{{< x user="tunix" id="1390599847506497542" >}}
 
 Most of the new generation computers have a problem that we as end users are not very aware of. The new generation of computers is getting lighter and thinner. Unfortunately, we do not give much thought to what is given up in order to reach this state.
 
@@ -152,7 +152,7 @@ I highly recommend you to listen this episode of [Linux 4 Everyone](https://www.
 
 There is currently a serious [lobbying activity](https://www.youtube.com/playlist?list=PLkVbIsAWN2lsmovRO20_gtfUfgWi-XnnT) in the USA on the Right to Repair . For now, they have not achieved great success, but it is useful to follow.
 
-{{< tweet 1379480063159140352 >}}
+{{< x user="jeremy_soller" id="1379480063159140352" >}}
 
 #### coreboot & EC firmware
 
